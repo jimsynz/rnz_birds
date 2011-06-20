@@ -1,3 +1,17 @@
 Source code for the @rnz_birds twitter bot. Nothing flash.
 
 If you wish to add a new sound description then fork and send me a pull request.
+
+config.yml structure:
+
+
+bitly:
+  username: 
+  api_key: 
+
+twitter:
+  username: 
+  consumer_key: 
+  consumer_secret: 
+  oauth_token: 
+  oauth_token_secret: 
